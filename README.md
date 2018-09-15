@@ -1,4 +1,4 @@
 # MarezanaLab
 
 ## Exercise 1 
-**Git-Bash-Basics is now Availiable!**
+**Git-Bash-Basics is now availiable!**
